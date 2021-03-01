@@ -40,7 +40,7 @@ function ReloadCard(props) {
             frontend/package.json
           </Link>
         </code>
-        .
+        :
       </p>
       <pre>
         <code className="language-js">{codeBlock_1}</code>
@@ -68,7 +68,7 @@ function ReloadCard(props) {
             backend/package.json
           </Link>
         </code>
-        .
+        :
       </p>
       <pre>
         <code className="language-js">{codeBlock_2}</code>
