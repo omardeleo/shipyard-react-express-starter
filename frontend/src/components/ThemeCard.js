@@ -29,6 +29,7 @@ function ThemeCard(props) {
 						className={classes.link}
 						href={`${process.env.REACT_APP_STARTER_REPO_URL}frontend/src/components/App.js#L94-L98`}
 						target="_blank"
+						rel="noopener"
 					>
 						frontend/src/components/App.js
 					</Link>
@@ -47,6 +48,7 @@ function ThemeCard(props) {
 					className={classes.link}
 					href="https://material-ui.com/customization/theming/"
 					target="_blank"
+					rel="noopener"
 				>
 					<b>Click here</b>
 				</Link>{' '}
