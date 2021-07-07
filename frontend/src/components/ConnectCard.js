@@ -107,6 +107,7 @@ function ConnectCard(props) {
               className={classes.link}
               href={`${process.env.REACT_APP_STARTER_REPO_URL}backend/src/routes/index.js#L101-L105`}
               target="_blank"
+              rel="noopener"
             >
               backend/src/routes/index.js
             </Link>
